@@ -24,6 +24,7 @@ class Qemu < Formula
     patch do
       url "https://gist.githubusercontent.com/m-bers/7bd49135f2d2d49bec89fb5bcbd52630/raw/cf45685bb792403dfd980893ee026e22dcbd6543/hvf.patch"
       sha256 "eacc69f9a6f1d646c297647f89f79d68886646fd31bfe30316e0b3ce43c2b228"
+    end
   end
 
   bottle do
