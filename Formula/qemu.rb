@@ -20,6 +20,10 @@ class Qemu < Formula
       url "https://git.qemu.org/?p=qemu.git;a=patch;h=cb7abd8319d19000b57ae6c5c474c2635db054c6"
       sha256 "818ad42f0cb25ab5df37058e27d7f879e4389489f692da4404c1f15dde5b2c4d"
     end
+
+    patch do
+      url "https://gist.githubusercontent.com/m-bers/7bd49135f2d2d49bec89fb5bcbd52630/raw/cf45685bb792403dfd980893ee026e22dcbd6543/hvf.patch"
+      sha256 "eacc69f9a6f1d646c297647f89f79d68886646fd31bfe30316e0b3ce43c2b228"
   end
 
   bottle do
