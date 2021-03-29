@@ -1,4 +1,4 @@
-# M-bers Homebrew
+# m-bers Homebrew
 
 ## How do I install these formulae?
 
