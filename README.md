@@ -2,9 +2,9 @@
 
 ## How do I install these formulae?
 
-`brew install m-bers/homebrew/<formula>`
+`brew install m-bers/arm64_big_sur/<formula>`
 
-Or `brew tap m-bers/homebrew` and then `brew install <formula>`.
+Or `brew tap m-bers/arm64_big_sur` and then `brew install <formula>`.
 
 ## Documentation
 
