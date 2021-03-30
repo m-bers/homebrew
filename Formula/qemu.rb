@@ -3,7 +3,7 @@ class Qemu < Formula
   homepage "https://www.qemu.org/"
   license "GPL-2.0-only"
   revision 1
-  head "https://git.qemu.org/git/qemu.git"
+  head "https://github.com/m-bers/qemu.git", :branch => "arm64_big_sur"
 
   stable do
     url "https://download.qemu.org/qemu-5.2.0.tar.xz"
